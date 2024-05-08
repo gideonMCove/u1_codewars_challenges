@@ -40,3 +40,19 @@
 // function sum(numbers) {
 //     return numbers.reduce((a, b) => a + b, 0);
 // };
+
+//challenge 5
+// let str = ''
+
+// function solution(str){
+//   let reversedStr = str.split('').reverse().join('')
+//   return (reversedStr);
+// }
+
+//challenge 6 
+// function makeMeSlow() {
+//     const startTime = Date.now()
+//     while (Date.now() - startTime < 7000) {
+//         // Loop for at least 7 seconds
+//     }
+// }
